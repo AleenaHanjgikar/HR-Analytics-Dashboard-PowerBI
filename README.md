@@ -30,5 +30,5 @@ Licensed dataset by Dr. Carla Patalano & Dr. Rich Huebner
 <img width="991" height="560" alt="Turnover_Overview" src="https://github.com/user-attachments/assets/8c4f5e3d-e961-4292-9f72-55829e8e6cef" />
 
 <img width="991" height="560" alt="Hiring_Performance" src="https://github.com/user-attachments/assets/e170bedc-3f36-44eb-bc0a-44dc97ba04a3" />
-(Add dashboard screenshots here)
+
 
