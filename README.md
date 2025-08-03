@@ -25,9 +25,13 @@ Licensed dataset by Dr. Carla Patalano & Dr. Rich Huebner
 [View Dataset on Google Drive](https://drive.google.com/file/d/1jBaXtUHZftaCa-JPLF1g6PU2-CKR2dEl/view)
 
 ## 📷 Screenshots
+
+
 <img width="998" height="561" alt="Emp_Demographics" src="https://github.com/user-attachments/assets/99a0d224-a5f7-450f-b564-ec34a72052c9" />
 
-<img width="991" height="560" alt="Turnover_Overview" src="https://github.com/user-attachments/assets/8c4f5e3d-e961-4292-9f72-55829e8e6cef" />
+
+<img width="994" height="558" alt="Turnover_Overview" src="https://github.com/user-attachments/assets/4da62ccb-37c3-4f34-9828-1668b5be062b" />
+
 
 <img width="991" height="560" alt="Hiring_Performance" src="https://github.com/user-attachments/assets/e170bedc-3f36-44eb-bc0a-44dc97ba04a3" />
 
